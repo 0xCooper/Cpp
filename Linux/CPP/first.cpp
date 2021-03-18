@@ -1,7 +1,13 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: myc
+ * @Date: 2021-01-30 00:35:52
+ */
 #include<stdio.h>
 
 
-int main(int argc,char* argv[])
+int main(int argc,char* const argv[])
 {
     if(argc==2){
         printf("argc==2\n");
